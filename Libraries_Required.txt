@@ -1,0 +1,10 @@
+List of python libraries required
+
+- numpy
+- pyroomacoustics
+- time
+- math
+- cmath
+- scipy
+- matplotlib
+- random
