@@ -1,2 +1,3 @@
 # DoA_Estimation_CNN
-Performance comparison between a conventional direction of arrival algorithm (Steered Response Power - Phase Transform) with a convolutional neural network.
+
+Directional of Arrival (DoA) performance comparison between a conventional DoA algorithm (Steered Response Power - Phase Transform) with a convolutional neural network (CNN).
