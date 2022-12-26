@@ -1,4 +1,4 @@
-# DoA_Estimation_CNN
+# DoA Estimation CNN
 
 The purpose of this project was to assess the performance of neural network based models for direction of arrival estimation when compared to conventional models (signal processing based). This folder contains a Jupyter notebook, a txt file containing all the libraries required, a python script with custom functions and a Data folder.
 
